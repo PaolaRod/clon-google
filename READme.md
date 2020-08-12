@@ -1,1 +1,0 @@
-Es un clon del buscador mas grande del mundo, Google. Un sitio web sencillo y minimalista, que se realiza para practicar html y css.  
